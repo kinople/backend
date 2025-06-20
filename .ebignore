@@ -1,0 +1,10 @@
+# Exclude virtual environment and other unnecessary files
+venv/
+__pycache__/
+db_directory/
+local_run.py
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
